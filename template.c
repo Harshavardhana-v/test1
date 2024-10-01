@@ -13,4 +13,7 @@ sub()
   printf("multiple the two numbers");
 }
   div()
+{
+	printf("div the two numbers');
+}
 }
