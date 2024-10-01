@@ -1,8 +1,11 @@
 main()
 {
-add():
+add()
 {
   printf("add the two numbers");
 }
-sub();
+sub()
+{
+  printf("sub the two numbers");
+}
 }
